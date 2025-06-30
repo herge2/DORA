@@ -18,3 +18,5 @@ DORA (article 1):
 * Faire preuve de diligence raisonnable à l'égard des **fournisseurs de services tiers**.
 * Encourager le **partage d'informations de de renseignements sur les cybermenaces et les vulnérabilités** entre les organisations.
 
+Cadre simplifié pour petites structures.
+
