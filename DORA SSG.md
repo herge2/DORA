@@ -20,3 +20,10 @@ DORA (article 1):
 
 Cadre simplifié pour petites structures.
 
+RTS/ITS
+
+Aucun montant n'est formalisé dans la règlementation.
+
+norme technique d’exécution (ITS)
+norme technique de réglementation (RTS)
+
