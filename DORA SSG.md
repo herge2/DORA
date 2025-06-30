@@ -12,9 +12,9 @@ DORA (article 1):
 * Aucune entité financière n'est prête aujourd'hui.
 
 5 objectifs:
-* Mettre en place un **dispositif de gestion des risques TIC**.
+* Mettre en place un **dispositif de gestion des risques TIC** dont la mise en oeuvre s'appuiera sur une **stratégie de résilience opérationnelle**.
 * Adopter une approche organisée de la **gestion des incidents liés aux TIC**.
-* Vérifier **l'efficacité de la stratégie de résilience numérique** en effectuant des **tests reguliers**
-* Faire preuve de diligence raisonnable à l'égard des **fournisseurs de services tiers**
-* Encourager le **partage d'informations de de renseignements sur les cybermenaces et les vulnérabilités** entre les organisations
+* Vérifier **l'efficacité de la stratégie de résilience numérique** en effectuant des **tests reguliers**.
+* Faire preuve de diligence raisonnable à l'égard des **fournisseurs de services tiers**.
+* Encourager le **partage d'informations de de renseignements sur les cybermenaces et les vulnérabilités** entre les organisations.
 
