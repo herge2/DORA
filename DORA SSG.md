@@ -34,3 +34,6 @@ France : on peut demander à l'ACPR ou BCE
 => Ce n'est pas à nous de déterminer si une entité est dans le champ d'application.
 
 Structure du règlement
+
+# Pilier N°2
+
