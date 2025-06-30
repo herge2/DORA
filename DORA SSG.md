@@ -9,4 +9,5 @@ DORA (article 1):
 * Pas juste de la Cybersécurité.
 * Entrée en vigueur 2023
 * Entrée en application : 17 janvier 2025
+* Aucune entité financière n'est prête aujourd'hui.
 
