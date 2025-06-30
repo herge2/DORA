@@ -27,3 +27,9 @@ Aucun montant n'est formalisé dans la règlementation.
 norme technique d’exécution (ITS).
 norme technique de réglementation (RTS).
 
+Principe de proportionnalité : doit être proportionnel aux risques en établissant 2 cadres. Le régulateur a pris en compte la taille, moyens des structures.
+Cadre simplifié
+France : on peut demander à l'ACPR ou BCE
+
+=> Ce n'est pas à nous de déterminer si une entité est dans le champ d'application.
+
